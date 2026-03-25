@@ -1,1 +1,1 @@
-# agent-context-kit
+# product-context
